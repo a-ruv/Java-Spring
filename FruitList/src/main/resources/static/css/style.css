@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+h1{
+	color:pink;
+	margin-left:100px;
+}
+
+table{
+	margin-left:100px;
+	border:10px solid pink;
+	width:300px;
+	height:300px;
+}
+
+tr{
+	text-align:center;
+	box-shadow:0px 2px 0px pink;
+}
